@@ -1,5 +1,6 @@
 # The-BI-Lab: Power BI Project
 Transforming Raw Data into 360° Business Insights
+![Alt Text](https://github.com/lmdata10/The-BI-Lab/blob/main/360.png)
 
 ## Overview
 
