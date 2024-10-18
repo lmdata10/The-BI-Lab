@@ -60,10 +60,11 @@ You can test out the dashboard directly [here](https://app.powerbi.com/view?r=ey
 
 ## LinkedIn
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) and check out my [LinkedIn post](https://www.linkedin.com/feed/update/your-post-link) where I discuss the project in more detail.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lmahial/) and check out my [LinkedIn post](https://www.linkedin.com/posts/lmahial_pbi360-activity-7252879146609967106-zw8C?utm_source=share&utm_medium=member_desktop) where I outlined the learning in public.
 
 
 ## Blog Post
+
 For an in-depth breakdown of the project, check out my detailed [blog post](https://tddbylm.hashnode.dev/the-power-bi-lab-transforming-raw-data-into-360-business-insights), where I cover the challenges, data modeling techniques, and key visuals used to bring this dashboard to life.
 
 ---
