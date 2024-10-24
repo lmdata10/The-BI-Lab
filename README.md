@@ -8,7 +8,7 @@ This Power BI project provides a 360-degree view of business insights by transfo
 
 ### Project Links:
 - [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTVjYmY3ZGEtNjE1OS00YjVhLTgyYmYtZjIzYWY3YWY5OTgzIiwidCI6IjcwZjQ5MWZkLTA3ODAtNDNhOS1iOTRmLThjZmEzOTlkZWRkOCJ9)
-- [Project Blog Post](https://tddbylm.hashnode.dev/the-power-bi-lab-transforming-raw-data-into-360-business-insights)
+- [Project Blog Post](https://digitndreams.hashnode.dev/the-power-bi-lab-transforming-raw-data-into-360-business-insights)
 
 ## Features
 
@@ -66,7 +66,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/lmahial/) and check ou
 
 ## Blog Post
 
-For an in-depth breakdown of the project, check out my detailed [blog post](https://tddbylm.hashnode.dev/the-power-bi-lab-transforming-raw-data-into-360-business-insights), where I cover the challenges, data modeling techniques, and key visuals used to bring this dashboard to life.
+For an in-depth breakdown of the project, check out my detailed [blog post](https://digitndreams.hashnode.dev/the-power-bi-lab-transforming-raw-data-into-360-business-insights), where I cover the challenges, data modeling techniques, and key visuals used to bring this dashboard to life.
 
 ---
 
